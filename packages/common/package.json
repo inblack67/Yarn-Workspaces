@@ -1,0 +1,10 @@
+{
+  "name": "@yarn/common",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Aman Bhardwaj",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}

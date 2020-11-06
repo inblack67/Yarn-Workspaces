@@ -1,0 +1,9 @@
+{
+    "private":"true",
+    "scripts": {
+        "start": "node packages/server/server.js"
+    },
+    "workspaces": [
+        "packages/*"
+    ]
+}
